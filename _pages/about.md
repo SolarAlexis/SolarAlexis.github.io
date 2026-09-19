@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Researcher at Orange Innovation and Cnam, within the CEDRIC laboratory. My PhD is supervised by [Stefano Secci](http://cedric.cnam.fr/~seccis/) (Cnam), Stéphane Rovedakis (Cnam), and Thierry Lejkin (Orange Innovation).
+I am a PhD Researcher at Orange Innovation & Cnam, within the CEDRIC laboratory. My PhD is supervised by [Stefano Secci](http://cedric.cnam.fr/~seccis/) (Cnam & [NeuroTel.ai](https://www.neurotel.ai/)), Stéphane Rovedakis (Cnam), and Thierry Lejkin (Orange Innovation).
 
 My broader research interests lie in applying mathematical and learning-based methods, including statistics, optimization, machine learning, and generative AI, to real-world problems. I am currently applying these methods primarily to communication networks.
 
