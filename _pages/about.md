@@ -30,7 +30,7 @@ I currently study LLM routing under latency constraints, with a broader interest
 
 I work on the integration, orchestration and adaptation of LLM-based agents and AI services in future network architectures.
 
-### Collaboration
+## Collaboration
 
 I am open to research collaborations. Feel free to contact me to discuss potential projects or related research topics.
 
