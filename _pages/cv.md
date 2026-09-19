@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV as PDF](/files/Alexis_Solar_CV.pdf)
+[Download CV as PDF](/files/CV_Alexis_Solar_2026.pdf)
 
 ## Research Interests
 
