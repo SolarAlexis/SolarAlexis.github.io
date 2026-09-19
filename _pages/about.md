@@ -7,26 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher working at the intersection of **Artificial Intelligence systems and future communication networks**.
+I am a PhD researcher at Orange Innovation and Cnam, within the CEDRIC laboratory. My PhD is supervised by Stefano Secci, Stéphane Rovedakis, and Thierry Lejkin.
 
-My research focuses on **LLM routing**, **agentic AI**, and the integration of AI-native services into future networks.
+My broader research interests lie in applying mathematical and learning-based methods, including statistics, optimization, machine learning, and generative AI, to real-world problems. I am currently applying these methods primarily to communication networks.
+
+My current research focuses on LLM routing, agentic AI, and their applications to future communication networks, including the integration, orchestration, and adaptation of AI-native services in 6G systems.
 
 ## Research Interests
 
-- LLM Routing and AI Systems
-- Agentic AI
-- Future Networks and 6G
 - Reliable and Adaptive AI Systems
+- Statistical Learning and Optimization
+- Generative and Agentic AI
+- AI for Networked and Distributed Systems
 
 ## Current Research
 
-### Deadline-Aware LLM Routing
+### Latency-Aware LLM and Agentic Routing
 
-I investigate the routing of requests across heterogeneous LLM services under strict latency, quality, and reliability constraints.
+I currently study LLM routing under latency constraints, with a broader interest in latency-aware routing for agentic AI systems.
 
 ### Agentic AI for Future Networks
 
-I work on the integration and orchestration of LLM-based agents and AI services in future network architectures.
+I work on the integration, orchestration and adaptation of LLM-based agents and AI services in future network architectures.
 
 ## Selected Publications
 
