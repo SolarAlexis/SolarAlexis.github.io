@@ -40,3 +40,8 @@ I am open to research collaborations. Feel free to contact me to discuss potenti
 *IFIP Networking Workshops, 2026*
 
 [Paper](https://ieeexplore.ieee.org/document/11579258)
+
+## Student Supervision / Co-Supervision
+
+- **Johan Liu** — Orange Innovation (2026)
+- **Ethan Lejkin** — Orange Innovation (2026)
