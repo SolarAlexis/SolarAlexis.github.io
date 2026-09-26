@@ -30,16 +30,16 @@ I currently study LLM routing under latency constraints, with a broader interest
 
 I work on the integration, orchestration and adaptation of LLM-based agents and AI services in future network architectures.
 
-## Collaboration
-
-I am open to research collaborations. Feel free to contact me to discuss potential projects or related research topics.
-
 ## Selected Publications
 
 **LLM Signaling for Agentic 6G Network Services**  
 *IFIP Networking Workshops, 2026*
 
 [Paper](https://ieeexplore.ieee.org/document/11579258)
+
+## Collaboration
+
+I am open to research collaborations. Feel free to contact me to discuss potential projects or related research topics.
 
 ## Student Supervision / Co-Supervision
 
