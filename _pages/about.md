@@ -43,5 +43,5 @@ I am open to research collaborations. Feel free to contact me to discuss potenti
 
 ## Student Supervision / Co-Supervision
 
-- **Johan Liu** — Orange Innovation (2026)
-- **Ethan Lejkin** — Orange Innovation (2026)
+- **Johan Liu** (2026)
+- **Ethan Lejkin** (2026)
