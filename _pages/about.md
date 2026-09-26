@@ -15,10 +15,10 @@ My current research focuses on LLM routing, agentic AI, and their applications t
 
 ## Research Interests
 
-- Reliable and Adaptive AI Systems
+- Efficiency and Reliability of AI Systems
 - Statistical Learning and Optimization
 - Generative and Agentic AI
-- AI for Networked and Distributed Systems
+- AI for Communication Networks
 
 ## Current Research
 
